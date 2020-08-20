@@ -1,3 +1,5 @@
+# Mau Recode? , Gpp , Asalkan Gw Bahagia Dalam Membuat Script ^_^ , Thanks
+
 import requests,os,sys,json,shutil
 from time import sleep
 
